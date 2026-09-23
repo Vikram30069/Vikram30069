@@ -1,0 +1,180 @@
+<svg width="100%" height="240" viewBox="0 0 1000 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Deep Space Gradient Background -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d"/>
+      <stop offset="50%" stop-color="#030712"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <!-- Neon Cyberpunk Gradients -->
+    <linearGradient id="cyberCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="cubeTop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="cubeLeft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#4f46e5" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="cubeRight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0369a1" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#3730a3" stop-opacity="0.75"/>
+    </linearGradient>
+    
+    <!-- Accent Gradient -->
+    <linearGradient id="goldAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+
+    <!-- 3D Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes floatCube1 {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-16px) rotate(4deg); }
+      }
+      @keyframes floatCube2 {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-12px) rotate(-5deg); }
+      }
+      @keyframes floatCube3 {
+        0%, 100% { transform: translateY(0px) rotate(0deg); }
+        50% { transform: translateY(-18px) rotate(6deg); }
+      }
+      @keyframes gridWave {
+        0% { stroke-dashoffset: 0; }
+        100% { stroke-dashoffset: 80; }
+      }
+      @keyframes pulseText {
+        0%, 100% { opacity: 0.95; filter: drop-shadow(0 0 12px rgba(56, 189, 248, 0.45)); }
+        50% { opacity: 1; filter: drop-shadow(0 0 26px rgba(129, 140, 248, 0.85)); }
+      }
+      @keyframes starTwinkle {
+        0%, 100% { opacity: 0.2; transform: scale(0.8); }
+        50% { opacity: 0.95; transform: scale(1.3); }
+      }
+      .cube1 { animation: floatCube1 6s ease-in-out infinite; transform-origin: 100px 110px; }
+      .cube2 { animation: floatCube2 7s ease-in-out infinite; transform-origin: 900px 100px; }
+      .cube3 { animation: floatCube3 5s ease-in-out infinite; transform-origin: 840px 170px; }
+      .mainTitle { animation: pulseText 4s ease-in-out infinite; }
+      .star1 { animation: starTwinkle 3s ease-in-out infinite; }
+      .star2 { animation: starTwinkle 4s ease-in-out infinite 1.5s; }
+      .star3 { animation: starTwinkle 2.5s ease-in-out infinite 0.7s; }
+      .gridLine { stroke: #1e293b; stroke-width: 1; stroke-dasharray: 4 4; animation: gridWave 8s linear infinite; }
+    </style>
+  </defs>
+
+  <!-- Container Box with Rounded Cyber Border -->
+  <rect width="1000" height="240" rx="16" fill="url(#bgGrad)"/>
+  <rect width="998" height="238" x="1" y="1" rx="15" fill="none" stroke="url(#cyberCyan)" stroke-width="1.5" stroke-opacity="0.45"/>
+
+  <!-- 3D Perspective Grid Background (Receding into Horizon) -->
+  <g opacity="0.3">
+    <!-- Perspective Rays -->
+    <line x1="500" y1="30" x2="0" y2="240" class="gridLine"/>
+    <line x1="500" y1="30" x2="150" y2="240" class="gridLine"/>
+    <line x1="500" y1="30" x2="300" y2="240" class="gridLine"/>
+    <line x1="500" y1="30" x2="420" y2="240" class="gridLine"/>
+    <line x1="500" y1="30" x2="580" y2="240" class="gridLine"/>
+    <line x1="500" y1="30" x2="700" y2="240" class="gridLine"/>
+    <line x1="500" y1="30" x2="850" y2="240" class="gridLine"/>
+    <line x1="500" y1="30" x2="1000" y2="240" class="gridLine"/>
+    <!-- Horizontal Perspective Lines -->
+    <line x1="0" y1="230" x2="1000" y2="230" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="1.5"/>
+    <line x1="80" y1="200" x2="920" y2="200" stroke="#38bdf8" stroke-opacity="0.25" stroke-width="1"/>
+    <line x1="180" y1="170" x2="820" y2="170" stroke="#38bdf8" stroke-opacity="0.2" stroke-width="1"/>
+    <line x1="280" y1="140" x2="720" y2="140" stroke="#38bdf8" stroke-opacity="0.12" stroke-width="1"/>
+  </g>
+
+  <!-- Twinkling Ambient Tech Stars -->
+  <circle cx="140" cy="50" r="2.5" fill="#38bdf8" class="star1"/>
+  <circle cx="220" cy="90" r="2" fill="#818cf8" class="star2"/>
+  <circle cx="880" cy="45" r="2.5" fill="#c084fc" class="star3"/>
+  <circle cx="760" cy="80" r="2" fill="#38bdf8" class="star1"/>
+  <circle cx="320" cy="40" r="2" fill="#fbbf24" class="star2"/>
+
+  <!-- 3D Floating Isometric Cube (Left Side) -->
+  <g class="cube1">
+    <!-- Top Face -->
+    <polygon points="100,70 140,50 180,70 140,90" fill="url(#cubeTop)" filter="url(#softGlow)"/>
+    <!-- Left Face -->
+    <polygon points="100,70 140,90 140,140 100,120" fill="url(#cubeLeft)"/>
+    <!-- Right Face -->
+    <polygon points="140,90 180,70 180,120 140,140" fill="url(#cubeRight)"/>
+    <!-- Highlights -->
+    <polyline points="100,70 140,90 180,70" fill="none" stroke="#ffffff" stroke-width="1.2" stroke-opacity="0.8"/>
+    <line x1="140" y1="90" x2="140" y2="140" stroke="#ffffff" stroke-width="1.2" stroke-opacity="0.6"/>
+  </g>
+
+  <!-- 3D Floating Isometric Cube (Right Side - Large) -->
+  <g class="cube2">
+    <!-- Top Face -->
+    <polygon points="880,55 925,32 970,55 925,78" fill="url(#cubeTop)" filter="url(#softGlow)"/>
+    <!-- Left Face -->
+    <polygon points="880,55 925,78 925,135 880,112" fill="url(#cubeLeft)"/>
+    <!-- Right Face -->
+    <polygon points="925,78 970,55 970,112 925,135" fill="url(#cubeRight)"/>
+    <!-- Highlights -->
+    <polyline points="880,55 925,78 970,55" fill="none" stroke="#ffffff" stroke-width="1.2" stroke-opacity="0.9"/>
+    <line x1="925" y1="78" x2="925" y2="135" stroke="#ffffff" stroke-width="1.2" stroke-opacity="0.7"/>
+  </g>
+
+  <!-- 3D Floating Micro-Cube (Right Side - Small) -->
+  <g class="cube3">
+    <polygon points="800,145 825,132 850,145 825,158" fill="url(#cubeTop)"/>
+    <polygon points="800,145 825,158 825,188 800,175" fill="url(#cubeLeft)"/>
+    <polygon points="825,158 850,145 850,175 825,188" fill="url(#cubeRight)"/>
+  </g>
+
+  <!-- Central 3D Typography Header -->
+  <g text-anchor="middle" class="mainTitle">
+    <!-- 3D Depth Shadow under Text -->
+    <text x="502" y="102" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="48" font-weight="900" fill="#030712" letter-spacing="4">VIKRAM BANERJEE</text>
+    
+    <!-- Main Glowing Gradient Text -->
+    <text x="500" y="100" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="48" font-weight="900" fill="url(#cyberCyan)" letter-spacing="4" filter="url(#glow)">VIKRAM BANERJEE</text>
+  </g>
+
+  <!-- Subtitle Tagline (IIT Madras & Pure Engineering/Leadership) -->
+  <g text-anchor="middle">
+    <!-- Pill Badge Background for Subtitle -->
+    <rect x="170" y="130" width="660" height="34" rx="17" fill="#0f172a" fill-opacity="0.85" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.45"/>
+    
+    <text x="500" y="153" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="700" fill="#f8fafc" letter-spacing="1.5">
+      <tspan fill="#38bdf8">IIT MADRAS</tspan> (BS DATA SCIENCE)  •  <tspan fill="#818cf8">AI/ML &amp; SYSTEMS BUILDER</tspan>  •  <tspan fill="#fbbf24">MUSICIAN</tspan>
+    </text>
+  </g>
+
+  <!-- Animated Bottom Accent Bar -->
+  <g>
+    <rect x="350" y="182" width="300" height="2" rx="1" fill="url(#cyberCyan)" filter="url(#glow)"/>
+    <circle cx="500" cy="183" r="3" fill="#38bdf8" filter="url(#glow)"/>
+  </g>
+
+  <!-- Status Pillars Pill at bottom -->
+  <g text-anchor="middle" opacity="0.85">
+    <text x="500" y="214" font-family="'Fira Code', monospace" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="1">
+      [ 10-Agent Swarm • UPI IntentGuard • Bajaj Fdn Ops • Boundless IITM ]
+    </text>
+  </g>
+</svg>
