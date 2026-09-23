@@ -1,149 +1,183 @@
 <div align="center">
 
-# Vikram Banerjee
+<!-- Animated Header Banner with Glowing Waves & Gradient Title -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24,31&height=210&section=header&text=Vikram%20Banerjee&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Systems%20Engineer%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Cloud%20Backends&descFontSize=20&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Vikram Banerjee - AI/ML Engineer Header" />
 
-### **AI/ML Systems Engineer • Data Science • Cloud Backends**
+<!-- Animated Dynamic Typing Subtitle -->
+<a href="https://github.com/Vikram30069">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+Deterministic+Multi-Agent+AI+Systems;Explainable+Anomaly+Detection+%26+Fintech+Security;Industrial+Computer+Vision+%26+Quality+Inspection;High-Throughput+APIs+with+FastAPI%2C+PostgreSQL+%26+AWS;CS+%40+Matrusri+%E2%80%A2+Data+Science+%40+IIT+Madras" alt="Animated Typing Subtitle" />
+</a>
 
-Hyderabad, India • [Portfolio](https://sites.google.com/ds.study.iitm.ac.in/vikram-banerjee/home) • [LinkedIn](https://www.linkedin.com/in/vikram-banerjee/) • [GitHub](https://github.com/Vikram30069)
-
-<br/>
-
-[![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+<p align="center">
+  <a href="https://sites.google.com/ds.study.iitm.ac.in/vikram-banerjee/home"><img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/vikram-banerjee/"><img src="https://img.shields.io/badge/💼_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="https://chitraninstitute.com/preview/index.html"><img src="https://img.shields.io/badge/🚀_Live_Client_Platform-0D1117?style=for-the-badge&logo=vercel&logoColor=34D399" alt="Chitran Platform"/></a>
+</p>
 
 </div>
 
 ---
 
-### 👨‍💻 Engineering Profile
+### ⚡ Technical Profile
 
-I am a Computer Science and Data Science undergraduate pursuing a dual-degree track at **Matrusri Engineering College** (B.E. in Computer Science and Engineering) and the **Indian Institute of Technology, Madras (IIT Madras)** (BS in Data Science and Applications).
+I am an AI/ML and Systems Engineer pursuing a dual-degree track at **Matrusri Engineering College** (B.E. in Computer Science & Engineering) and the **Indian Institute of Technology, Madras (IIT Madras)** (BS in Data Science and Applications).
 
-My engineering work focuses on **applied AI systems** and **backend engineering**:
-- **Multi-Agent AI Architectures**: Deterministic agent collaboration pipelines using CrewAI, FastAPI, and structured schema validation.
-- **Explainable Anomaly Detection**: Statistical behavioral models (Median / MAD baselines) for contextual financial fraud mitigation.
-- **Computer Vision & Inspection**: Dual-stage defect localization combining OpenCV morphological analysis with supervised machine learning.
-- **Production-Style Backends**: Layered FastAPI and PostgreSQL services with strict Pydantic v2 schemas, JWT RBAC, and containerized deployment.
+My engineering work bridges the gap between **theoretical machine learning** and **production-grade software systems**:
+- 🤖 **Autonomous Multi-Agent AI**: Designing deterministic agent pipelines with structured schema boundaries, dynamic role assignment, and multi-channel telemetry.
+- 🛡️ **Contextual Risk & Anomaly Engines**: Applying non-parametric statistical methods (Median / MAD baselines) to detect fraud and duress in real-time transactions.
+- 👁️ **Dual-Stage Computer Vision**: Combining spatial morphological localization with supervised classifiers for automated surface inspection.
+- ☁️ **High-Concurrency Cloud Backends**: Architecting asynchronous FastAPI microservices, PostgreSQL relational schemas, JWT RBAC, and Docker containers.
 
 ---
 
 ### 🚨 Currently Building
 
-- **[RescueNet-AI](https://github.com/Vikram30069/RescueNet-AI)**: A 10-agent autonomous disaster response orchestrator that parses distress feeds, scores survivor risk, cross-references real regional emergency asset databases, and automates multi-channel dispatches via Twilio and AWS.
-- **[datadrishti (Paytm IntentGuard)](https://github.com/Vikram30069/datadrishti)**: A contextual UPI payment security layer evaluating transfers against personal behavioral baselines to intercept coercion and panic fraud without interrupting legitimate activity.
+```text
+┌──────────────────┬────────────────────────────────────────────────────────────────────────┐
+│ Project          │ Engineering Focus & Architecture                                       │
+├──────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ 🚨 RescueNet-AI  │ 10-Agent emergency response orchestrator (CrewAI • FastAPI • AWS)      │
+│ 🛡️ datadrishti    │ Paytm IntentGuard: Behavioral UPI anomaly layer (MAD baselines • ML)   │
+│ 🎨 Chitran Core  │ Production-grade client academy web platform (chitraninstitute.com)    │
+└──────────────────┴────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ### 🛠️ Featured Engineering Projects
 
 #### 1. [RescueNet-AI — 10-Agent Autonomous Disaster Response Orchestrator](https://github.com/Vikram30069/RescueNet-AI)
-*Deterministic multi-agent pipeline designed to eliminate multi-agency communication bottlenecks during rapid-onset urban emergencies.*
+*Real-time multi-agent dispatch system designed to solve coordination failure during rapid-onset urban flooding.*
 
-- **System Design**: Coordinates 10 specialized CrewAI agents (Disaster Intelligence, Incident Understanding, Survivor Probability, Medical Triage, Resource Allocation, Hospital Coordination, Risk Prediction, Alert Dispatch, Command Orchestration).
-- **Domain Integration**: Ingests and routes across real emergency infrastructure datasets (100+ Telangana hospitals, ambulance depots, fire stations, and NDRF battalions).
-- **Backend & Cloud**: FastAPI service deployed with PostgreSQL/SQLite, Twilio API for automated SMS/Voice/WhatsApp alerts, and containerized Docker configurations.
-- **Quality & Verification**: 15+ automated API and agent pipeline test suites validating triage schema contracts, agent handoffs, and resource routing.
-- **Tech**: `Python 3.11` • `FastAPI` • `CrewAI` • `PostgreSQL` • `Docker` • `AWS (EC2/Bedrock)` • `Twilio API` • `Next.js 14`
+[![Status](https://img.shields.io/badge/Status-Active_Architecture-38BDF8?style=flat-square)](https://github.com/Vikram30069/RescueNet-AI)
+[![Stack](https://img.shields.io/badge/Stack-Python_3.11_•_CrewAI_•_FastAPI_•_AWS_•_PostgreSQL-0D1117?style=flat-square)](https://github.com/Vikram30069/RescueNet-AI)
+[![Tests](https://img.shields.io/badge/Tests-15+_Pytest_Passing-34D399?style=flat-square)](https://github.com/Vikram30069/RescueNet-AI)
 
+```mermaid
+graph LR
+    CALLS[Raw Distress Ingestion] --> A1[1. Incident Understanding]
+    A1 --> A2[2. Disaster Intelligence]
+    A2 --> A3[3. Survivor Probability]
+    A3 --> A4[4. Medical Triage]
+    A4 --> A5[5. Priority Scoring]
+    A5 --> A6[6. Resource Allocation]
+    A6 --> A7[7. Hospital Coordination]
+    A7 --> A8[8. Risk Prediction]
+    A8 --> A9[9. Twilio Alerts]
+    A9 --> A10[10. Master Rescue Plan]
 ```
-Distress Ingestion ──▶ Incident Parser ──▶ Survivor Probability ──▶ Medical Triage
-                                                                         │
-Twilio Alert Dispatch ◀── Hospital Routing ◀── Resource Allocation ◀─────┘
-```
+
+- **Architecture**: Coordinates 10 specialized CrewAI agents governed by strict Pydantic input/output validation schemas to eliminate hallucination in emergency dispatches.
+- **Regional Emergency Datasets**: Ingests and geocodes real Telangana infrastructure registries (100+ vetted hospitals, 108 ambulance depots, fire stations, and NDRF rescue battalions).
+- **Automated Dispatches**: Formats and triggers real-time Twilio SMS, IVR synthetic voice calls, and Next.js live geospatial map tracking in under 45 seconds.
 
 ---
 
 #### 2. [datadrishti (Paytm IntentGuard) — Contextual Payment Security Layer](https://github.com/Vikram30069/datadrishti)
 *Behavioral anomaly detection layer protecting UPI transfers against coercion, distress, and panic-induced financial fraud.*
 
-- **Problem & Solution**: Standard binary fraud filters block legitimate high-value transfers (e.g. rent) while missing technically authorized transactions made under duress. IntentGuard introduces contextual personal baselines.
-- **Statistical Engine**: Replaces vulnerable arithmetic averages with Median and Median Absolute Deviation (MAD) to establish personal spending thresholds.
-- **Calibrated Risk Policy**: Evaluates 6 signals (Amount Anomaly, Counterparty Novelty, Time-of-Day, Device Fingerprint, Geolocation Anomaly, Velocity Surges) mapped to 4 adaptive friction states: *Allow (0–30)*, *Inform (31–55)*, *Step-Up Verification (56–80)*, and *Block (>80)*.
-- **Quality & Verification**: 5 modular test suites (`test_api.py`, `test_features.py`, `test_policy.py`, `test_risk_engine.py`, `test_simulation_engine.py`).
-- **Tech**: `Python` • `FastAPI` • `NumPy` • `Pandas` • `Scikit-learn` • `Docker` • `Next.js`
+[![Stack](https://img.shields.io/badge/Stack-Python_•_FastAPI_•_NumPy_•_Pandas_•_Scikit--Learn-0D1117?style=flat-square)](https://github.com/Vikram30069/datadrishti)
+[![Tests](https://img.shields.io/badge/Tests-5_Suites_Passing-34D399?style=flat-square)](https://github.com/Vikram30069/datadrishti)
+
+- **The Problem**: Standard binary fraud blockers block safe high-value transfers (e.g. ₹50,000 monthly rent to a known landlord) while missing authorized transactions made under duress or panic.
+- **Personal Baseline Analytics**: Evaluates transactions against personal Median and Median Absolute Deviation (MAD) distributions rather than vulnerable arithmetic averages.
+- **6 Calibrated Risk Signals**: Evaluates Amount Anomaly (+30), Recipient Novelty (+20), Device Novelty (+20), Time Anomaly (+15), Geo Anomaly (+10), and Velocity Surges (+5).
+- **Adaptive Friction Policies**:
+  - `0–30 (Low Risk)` ➔ **ALLOW**: 1-Tap frictionless transfer.
+  - `31–55 (Moderate Risk)` ➔ **INFORM**: Contextual warning banner with 1-tap review.
+  - `56–80 (Elevated Risk)` ➔ **STEP-UP**: Mandatory biometric re-authentication & cooling-off delay.
+  - `>80 (Severe Risk)` ➔ **BLOCK**: Transaction hold requiring out-of-band telephone clearance.
 
 ---
 
 #### 3. [VisionCheck — Industrial Quality & Surface Defect Detection](https://github.com/Vikram30069/ai-image-quality-defect-detection)
-*Dual-stage computer vision and machine learning inspection console for automated manufacturing surface quality assurance.*
+*Dual-stage computer vision inspection engine coupling classical morphology with supervised machine learning.*
 
-- **Inspection Architecture**: Combines classical spatial computer vision (morphological contour analysis and thresholding) for defect localization with a trained Random Forest classifier.
-- **Feature Engineering**: Extracts 7 optical quality metrics per image: sharpness index, contrast score, luminance profile, noise estimate, blur metric, edge density, and localized defect count.
-- **Model Performance**: 93% classification accuracy on benchmark surface inspection samples with sub-100ms inference latency.
-- **Deployment**: Production FastAPI backend, interactive visual console, and Dockerized deployment on Render with OpenAPI documentation.
-- **Quality & Verification**: 25 unit/integration test cases covering image preprocessing, feature extraction pipelines, model prediction, and API endpoints.
-- **Tech**: `Python 3.12` • `OpenCV` • `Scikit-Learn` • `FastAPI` • `Docker` • `Pytest`
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render_Console-46E3B7?style=flat-square&logo=render&logoColor=white)](https://ai-image-quality-defect-detection-ps3t.onrender.com)
+[![Swagger](https://img.shields.io/badge/API_Docs-FastAPI_OpenAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://ai-image-quality-defect-detection-ps3t.onrender.com/docs)
+[![Tests](https://img.shields.io/badge/Tests-25%2F25_Passing-34D399?style=flat-square)](https://github.com/Vikram30069/ai-image-quality-defect-detection)
+
+- **Inspection Pipeline**: Implements a dual-stage architecture: classical spatial morphology (Sobel/Otsu contour localization) identifies physical defect boundaries, while a trained **Random Forest Classifier (93% accuracy)** evaluates 7 optical features (sharpness index, contrast, luminance, noise estimate, blur metric, edge density, and defect count).
+- **Production Deployment**: Containerized in Docker, deployed on Render with an interactive inspection console and sub-100ms inference API endpoints.
 
 ---
 
-#### 4. [Skynet Flight Operations API — Aviation Academy Operations Backend](https://github.com/Vikram30069/skynet-flight-ops-api)
+#### 4. [Skynet Flight Operations API — Aviation Academy SaaS Backend](https://github.com/Vikram30069/skynet-flight-ops-api)
 *High-reliability REST backend enforcing aviation safety compliance, aircraft maintenance dispatch, and training sortie workflows.*
 
-- **Domain Logic**: Implements aviation dispatch lifecycle rules, airworthiness status validation (grounded, maintenance hold, ready), and flight-hour milestone tracking.
-- **Security & Authorization**: Role-Based Access Control (RBAC) with JWT tokens enforcing distinct permission scopes for Admins, Dispatchers, Chief Flight Instructors (CFI), Instructors, and Students.
-- **Database Architecture**: PostgreSQL relational schema designed with SQLAlchemy ORM, clean separation of concerns (`api`, `core`, `db`, `schemas`, `services`), and database seed automation.
-- **Quality & Verification**: Automated pytest suites testing aircraft readiness transitions, sortie scheduling constraints, and audit log generation.
-- **Tech**: `Python 3.11` • `FastAPI` • `PostgreSQL` • `SQLAlchemy` • `Pydantic v2` • `Docker Compose` • `Pytest`
+[![Stack](https://img.shields.io/badge/Stack-FastAPI_•_PostgreSQL_15_•_SQLAlchemy_•_Pydantic_v2-0D1117?style=flat-square)](https://github.com/Vikram30069/skynet-flight-ops-api)
+[![Docker](https://img.shields.io/badge/Docker-Compose_Ready-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/Vikram30069/skynet-flight-ops-api)
+
+- **Domain Compliance**: Implements civil aviation sortie authorization workflows, validating student flight syllabus prerequisites, instructor endorsements, and aircraft airworthiness states (`AIRWORTHY`, `MAINTENANCE_HOLD`, `GROUNDED`).
+- **Security & Database**: Role-Based Access Control (RBAC) with JWT tokens enforcing permission scopes across 5 user tiers (Admin, Dispatcher, CFI, Instructor, Student) with an automated PostgreSQL seed pipeline.
 
 ---
 
 #### 5. [PaySphere — Intelligent Payment Simulation & Incident Dispatch](https://github.com/Vikram30069/paysphere)
 *Fintech transaction processing simulation featuring explainable risk evaluation and automated emergency telephonic response.*
 
-- **Core Capabilities**: Simulates high-value transaction processing with real-time scoring (0–100) based on transfer velocity, counterparty novelty, and anomaly thresholds.
-- **Automated Incident Response**: Triggers multi-channel Twilio SMS alerts and automated synthetic voice calls for transactions exceeding risk thresholds.
-- **Interface & Forensics**: 3D interactive balance overview, circular SVG risk gauge, and expandable audit drawers containing full transaction metadata and action histories.
-- **Tech**: `Node.js` • `Express.js` • `JavaScript` • `Twilio API` • `HTML5/CSS3` • `Jest`
+[![Stack](https://img.shields.io/badge/Stack-Node.js_•_Express_•_Twilio_SMS_%26_Voice_•_CSS3D-0D1117?style=flat-square)](https://github.com/Vikram30069/paysphere)
+
+- **Automated Incident Response**: Triggers real-time Twilio SMS verification codes and programmable voice IVR phone calls when a simulated payment exceeds critical anomaly thresholds.
+- **Interactive Security UI**: Features an interactive 3D holographic balance card with mouse-tracking tilt, circular SVG risk gauge (0–100), and transaction forensic audit drawers.
 
 ---
 
-#### 6. [Smart Attendance System — Edge Face Recognition & Geofencing](https://github.com/Vikram30069/smart-attendance-using-face-recognition)
+#### 6. [Smart Attendance & Liveness Verification System](https://github.com/Vikram30069/smart-attendance-using-face-recognition)
 *Enterprise attendance platform integrating real-time computer vision, deep learning anti-spoofing, and geolocation constraints.*
 
-- **Computer Vision Pipeline**: Real-time facial detection and 128-dimensional embedding generation using OpenCV and dlib.
-- **Anti-Spoofing & Liveness**: Integrated MiniFASNet ONNX deep learning neural network for texture-based liveness verification to prevent photo, video, and screen replay attacks.
-- **Institutional Controls**: Role-based web interface (Student, Teacher, Admin), automated timetable population, and GPS geofence radius validation.
-- **Tech**: `Python` • `Django` • `OpenCV` • `dlib` • `MiniFASNet ONNX` • `SQLite` • `Docker`
+[![Stack](https://img.shields.io/badge/Stack-Django_•_OpenCV_•_dlib_•_MiniFASNet_ONNX_•_Docker-0D1117?style=flat-square)](https://github.com/Vikram30069/smart-attendance-using-face-recognition)
+
+- **Edge Deep Learning**: Defends against 2D printed photographs, video screens, and mask replays using a **MiniFASNet ONNX neural network** for real-time texture liveness detection.
+- **Institutional Governance**: Combines facial landmark matching with browser GPS geofence radius checks, automated timetable seeding, and role-based student/faculty dashboards.
 
 ---
 
-### 💻 Technical Stack
+### 💻 Technical Stack & Tooling
+
+<div align="center">
+
+<!-- Sleek Dark Themed Icon Badges -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,django,nodejs,express,postgres,sqlite,redis,docker,aws,linux,git,githubactions,nextjs,ts,js,tailwind,html,css" alt="Tech Stack Icons" />
+</a>
+
+</div>
+
+<br/>
 
 <table>
   <tr>
-    <td width="22%"><strong>Languages</strong></td>
-    <td><code>Python</code> • <code>JavaScript</code> • <code>TypeScript</code> • <code>SQL (PostgreSQL, SQLite)</code> • <code>HTML5 / CSS3</code></td>
+    <td width="24%"><strong>AI & Machine Learning</strong></td>
+    <td><code>PyTorch</code> • <code>TensorFlow</code> • <code>Scikit-Learn</code> • <code>OpenCV</code> • <code>CrewAI (Multi-Agent)</code> • <code>LLM Orchestration</code> • <code>MiniFASNet ONNX</code> • <code>NumPy</code> • <code>Pandas</code></td>
   </tr>
   <tr>
-    <td><strong>AI & Machine Learning</strong></td>
-    <td><code>PyTorch</code> • <code>Scikit-Learn</code> • <code>OpenCV</code> • <code>CrewAI (Multi-Agent)</code> • <code>LLM Orchestration</code> • <code>MiniFASNet ONNX</code> • <code>NumPy</code> • <code>Pandas</code></td>
+    <td><strong>Backend & Systems</strong></td>
+    <td><code>Python (3.11/3.12)</code> • <code>FastAPI</code> • <code>Django</code> • <code>Node.js / Express</code> • <code>Pydantic v2</code> • <code>SQLAlchemy</code> • <code>JWT RBAC</code> • <code>RESTful APIs</code></td>
   </tr>
   <tr>
-    <td><strong>Backend & APIs</strong></td>
-    <td><code>FastAPI</code> • <code>Django</code> • <code>Node.js / Express</code> • <code>Pydantic v2</code> • <code>SQLAlchemy</code> • <code>RESTful APIs</code> • <code>JWT RBAC</code></td>
+    <td><strong>Data & Persistence</strong></td>
+    <td><code>PostgreSQL</code> • <code>SQLite</code> • <code>Redis (Basics)</code> • <code>Data Cleaning & ETL</code> • <code>PySpark (Foundations)</code></td>
   </tr>
   <tr>
-    <td><strong>Data & Storage</strong></td>
-    <td><code>PostgreSQL</code> • <code>SQLite</code> • <code>Redis (Basics)</code> • <code>Data Cleaning & Transformation</code></td>
+    <td><strong>Cloud & Infrastructure</strong></td>
+    <td><code>AWS (EC2, Bedrock, Amplify)</code> • <code>Docker</code> • <code>Docker Compose</code> • <code>GitHub Actions (CI/CD)</code> • <code>Linux / Bash</code> • <code>Render / Vercel</code></td>
   </tr>
   <tr>
-    <td><strong>Cloud & DevOps</strong></td>
-    <td><code>AWS (EC2, Amplify)</code> • <code>Docker</code> • <code>Docker Compose</code> • <code>GitHub Actions</code> • <code>Linux / Bash</code> • <code>Render / Vercel</code></td>
+    <td><strong>Web & Client Systems</strong></td>
+    <td><code>Next.js 14/15</code> • <code>TypeScript</code> • <code>JavaScript</code> • <code>Tailwind CSS</code> • <code>Production Platform Engineering</code></td>
   </tr>
 </table>
 
 ---
 
-### 🔬 Engineering Principles
+### 📊 GitHub Activity & Metrics
 
-- **Deterministic Agent Execution**: Emergency pipelines enforce structured Pydantic input/output contracts to eliminate LLM hallucinations during life-critical dispatch operations.
-- **Statistical Anomaly Baselines**: Financial security models favor non-parametric metrics (Median, Median Absolute Deviation) over vulnerable arithmetic means to prevent skew from legitimate high-value outliers.
-- **Layered Backend Architecture**: Strict decoupling of routing schemas, domain service logic, database access layers, and configuration injection.
-- **Automated Verification**: End-to-end unit and integration testing via `pytest` and containerized test execution in Docker before deployment.
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Vikram30069&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=38BDF8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=60A5FA" alt="GitHub Streak" height="175" />
+
+</div>
 
 ---
 
@@ -156,8 +190,13 @@ Twilio Alert Dispatch ◀── Hospital Routing ◀── Resource Allocation �
 
 ---
 
-### 📬 Connect
+<div align="center">
 
-- **LinkedIn**: [linkedin.com/in/vikram-banerjee](https://www.linkedin.com/in/vikram-banerjee/)
-- **Technical Portfolio**: [Vikram Banerjee Portfolio](https://sites.google.com/ds.study.iitm.ac.in/vikram-banerjee/home)
-- **GitHub**: [github.com/Vikram30069](https://github.com/Vikram30069)
+<!-- Animated Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24,31&height=120&section=footer" width="100%" alt="Footer Wave" />
+
+<p>
+  <strong>Vikram Banerjee</strong> • <a href="https://sites.google.com/ds.study.iitm.ac.in/vikram-banerjee/home">Portfolio</a> • <a href="https://www.linkedin.com/in/vikram-banerjee/">LinkedIn</a> • <a href="https://github.com/Vikram30069">GitHub</a>
+</p>
+
+</div>
