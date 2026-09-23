@@ -1,11 +1,12 @@
 <div align="center">
 
-<!-- Animated Header Banner with Glowing Waves & Gradient Title -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24,31&height=210&section=header&text=Vikram%20Banerjee&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CS%20%26%20Data%20Science%20Undergrad%20('27)%20%E2%80%A2%20AI%2FML%20Builder%20%E2%80%A2%20Musician&descFontSize=19&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Vikram Banerjee - Header" />
+# ⚡ Vikram Banerjee
+
+### **Dual-Degree CS & Data Science Undergrad ('27) • AI/ML & Systems Builder • Musician**
 
 <!-- Animated Dynamic Typing Subtitle -->
 <a href="https://github.com/Vikram30069">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=CS+Undergrad+%40+Matrusri+('27)+%E2%80%A2+Data+Science+%40+IIT+Madras;Building+Deterministic+Multi-Agent+AI+Systems;Project+Executive+%26+Facilitator+%40+Bajaj+Foundation;Certified+Musician+(8th+Grade+IFAA)+%26+Music+Educator;Seeking+AI%2C+Data+Science+%26+Software+Internships" alt="Animated Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=CS+Undergrad+%40+Matrusri+(Class+of+2027)+%E2%80%A2+Data+Science+%40+IIT+Madras;Building+Deterministic+Multi-Agent+AI+Systems;Project+Executive+%26+Facilitator+%40+Bajaj+Foundation;Certified+Musician+(8th+Grade+IFAA)+%26+Music+Educator;Seeking+AI%2C+Data+Science+%26+Software+Internships" alt="Animated Typing Subtitle" />
 </a>
 
 <p align="center">
@@ -176,9 +177,6 @@ graph LR
 ---
 
 <div align="center">
-
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24,31&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 <p>
   <strong>Vikram Banerjee</strong> • <a href="https://sites.google.com/ds.study.iitm.ac.in/vikram-banerjee/home">Portfolio</a> • <a href="https://www.linkedin.com/in/vikram-banerjee/">LinkedIn</a> • <a href="https://github.com/Vikram30069">GitHub</a>
