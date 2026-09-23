@@ -1,12 +1,13 @@
 <div align="center">
 
-# ⚡ Vikram Banerjee
+<!-- 3D Animated Hero Banner -->
+<img src="https://raw.githubusercontent.com/Vikram30069/Vikram30069/main/banner.svg" width="100%" alt="Vikram Banerjee - 3D Animated Banner" />
 
-### **Dual-Degree CS & Data Science Undergrad ('27) • AI/ML & Systems Builder • Musician**
+<br/>
 
-<!-- Animated Dynamic Typing Subtitle -->
+<!-- Dynamic Animated Terminal Status -->
 <a href="https://github.com/Vikram30069">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=CS+Undergrad+%40+Matrusri+(Class+of+2027)+%E2%80%A2+Data+Science+%40+IIT+Madras;Building+Deterministic+Multi-Agent+AI+Systems;Project+Executive+%26+Facilitator+%40+Bajaj+Foundation;Certified+Musician+(8th+Grade+IFAA)+%26+Music+Educator;Seeking+AI%2C+Data+Science+%26+Software+Internships" alt="Animated Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=BS+Data+Science+%40+IIT+Madras+%E2%80%A2+AI%2FML+%26+Systems+Builder;Building+Deterministic+Multi-Agent+AI+Systems;City+Operations+Head+%40+Boundless+IIT+Madras;Project+Executive+%26+Facilitator+%40+Bajaj+Foundation;Certified+Musician+(8th+Grade+IFAA)+%26+Music+Educator;Seeking+AI%2C+Data+Science+%26+Software+Internships" alt="Animated Typing Subtitle" />
 </a>
 
 <p align="center">
@@ -24,8 +25,8 @@
 Dual-degree Computer Science & Data Science undergraduate building **deterministic multi-agent AI systems**, **contextual anomaly detection pipelines**, and **fault-tolerant backend microservices**.
 
 Currently pursuing:
-- 🎓 **B.E. in Computer Science and Engineering** at **Matrusri Engineering College** (Class of 2027)
 - 🎓 **BS in Data Science and Applications** at the **Indian Institute of Technology, Madras (IIT Madras)**
+- 🎓 **Undergraduate in Computer Science & Engineering (Class of 2027)**
 
 **Leadership & Operations**:
 - 🏢 **City Operations Head** @ Boundless (IIT Madras)
@@ -171,10 +172,10 @@ graph LR
 
 ### 🎓 Academic & Certified Credentials
 
-- **Matrusri Engineering College** (Affiliated with Osmania University)  
-  *Bachelor of Engineering (B.E.) in Computer Science and Engineering (Class of 2027)*
 - **Indian Institute of Technology, Madras (IIT Madras)**  
   *Bachelor of Science (BS) in Data Science and Applications*
+- **Undergraduate Studies in Computer Science & Engineering**  
+  *Class of 2027*
 - **Indian Fine Arts Association (IFAA), Visva-Bharati University**  
   *8th Grade Senior Diploma in Music & Classical Instruments*
 - **MSME Certified Training Faculty (Govt. of India)**  
