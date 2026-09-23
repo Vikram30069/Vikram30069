@@ -21,13 +21,19 @@
 
 ### ⚡ About Me
 
-I operate at the intersection of **Computer Science, Data-Driven Systems, Creative Communication, and Operational Leadership**. 
+Dual-degree Computer Science & Data Science undergraduate building **deterministic multi-agent AI systems**, **contextual anomaly detection pipelines**, and **fault-tolerant backend microservices**.
 
-Currently, I am pursuing a **Dual-Degree Track**:
+Currently pursuing:
 - 🎓 **B.E. in Computer Science and Engineering** at **Matrusri Engineering College** (Class of 2027)
 - 🎓 **BS in Data Science and Applications** at the **Indian Institute of Technology, Madras (IIT Madras)**
 
-Beyond code, I am a **Project Executive & Facilitator at Bajaj Foundation** (driving budget optimization, partner deals, and project execution across Telangana) and an **8th Grade Certified Musician & Educator** (Indian Fine Arts Association, Visva-Bharati University) with 4+ years of teaching experience training 100+ students across Keyboard, Tabla, Jazz Drums, Harmonium, Octapad, Violin, and Dholak.
+**Leadership & Operations**:
+- 🏢 **City Operations Head** @ Boundless (IIT Madras)
+- 🏢 **Project Executive & Facilitator** @ Bajaj Foundation (driving partner deals, budget optimization, and project execution across Telangana)
+- 🎓 **Ex-Intern** @ IIIT Hyderabad (IIIT-H)
+
+**Beyond Code**:
+- 🎹 **8th Grade Certified Musician & Educator** (Indian Fine Arts Association, Visva-Bharati University) with 4+ years of teaching experience mentoring 100+ students across Keyboard, Tabla, Jazz Drums, Harmonium, Octapad, Violin, and Dholak.
 
 ---
 
