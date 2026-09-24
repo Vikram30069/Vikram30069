@@ -20,7 +20,7 @@
 
 ---
 
-### ⚡ About Me
+###  About Me
 
 Dual-degree Computer Science & Data Science undergraduate building **deterministic multi-agent AI systems**, **contextual anomaly detection pipelines**, and **fault-tolerant backend microservices**.
 
