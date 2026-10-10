@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Dynamic Animated Terminal Status -->
-<a href="https://github.com/Vikram30069">
+<a href="https://vikram30069.github.io/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=BS+Data+Science+%40+IIT+Madras+%E2%80%A2+AI%2FML+%26+Systems+Builder;Building+Deterministic+Multi-Agent+AI+Systems;City+Operations+Head+%40+Boundless+IIT+Madras;Project+Executive+%26+Facilitator+%40+Bajaj+Foundation;Certified+Musician+(8th+Grade+IFAA)+%26+Music+Educator;Seeking+AI%2C+Data+Science+%26+Software+Internships" alt="Animated Typing Subtitle" />
 </a>
 
