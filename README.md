@@ -11,10 +11,17 @@
 </a>
 
 <p align="center">
-  <a href="vikram30069.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/vikram-banerjee/"><img src="https://img.shields.io/badge/💼_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://chitraninstitute.com/preview/index.html"><img src="https://img.shields.io/badge/🎨_Chitran_Institute-0D1117?style=for-the-badge&logo=vercel&logoColor=34D399" alt="Chitran Platform"/></a>
+  <a href="https://vikram30069.github.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vikram-banerjee/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://chitraninstitute.com/preview/index.html">
+    <img src="https://img.shields.io/badge/🎨_Chitran_Institute-0D1117?style=for-the-badge&logo=vercel&logoColor=34D399" alt="Chitran Platform"/>
+  </a>
 </p>
+
 
 </div>
 
