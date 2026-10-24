@@ -167,11 +167,25 @@ graph LR
 
 ---
 
-### 📊 GitHub Activity & Metrics
+📊 GitHub Activity & Metrics
 
 <div align="center">
 
+<!-- GitHub Contribution Graph -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikram30069&bg_color=0D1117&color=60A5FA&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+
+<br/><br/>
+
+<!-- GitHub Streak Stats -->
+
 <img src="https://streak-stats.demolab.com/?user=Vikram30069&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=38BDF8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=60A5FA" alt="GitHub Streak" height="175" />
+
+<br/><br/>
+
+<!-- 2600+ Contributions Badge -->
+
+<img src="https://img.shields.io/badge/Contributions-2600%2B-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="2600+ GitHub Contributions" />
 
 </div>
 
